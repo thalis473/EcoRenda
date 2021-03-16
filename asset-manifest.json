@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ecorenda/static/css/main.ce75d830.chunk.css",
-    "main.js": "/ecorenda/static/js/main.6e66b665.chunk.js",
-    "main.js.map": "/ecorenda/static/js/main.6e66b665.chunk.js.map",
+    "main.js": "/ecorenda/static/js/main.246110ad.chunk.js",
+    "main.js.map": "/ecorenda/static/js/main.246110ad.chunk.js.map",
     "runtime-main.js": "/ecorenda/static/js/runtime-main.95960863.js",
     "runtime-main.js.map": "/ecorenda/static/js/runtime-main.95960863.js.map",
     "static/css/2.4bd545a4.chunk.css": "/ecorenda/static/css/2.4bd545a4.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.4bd545a4.chunk.css",
     "static/js/2.f57d23f3.chunk.js",
     "static/css/main.ce75d830.chunk.css",
-    "static/js/main.6e66b665.chunk.js"
+    "static/js/main.246110ad.chunk.js"
   ]
 }
